@@ -1,5 +1,7 @@
 # CHDDOS - Advanced DoS/DDoS Simulation Tool
 
+<img width="1920" height="800" alt="chddos" src="https://github.com/user-attachments/assets/dbd76e65-d53a-4ec0-923e-86fd0e44f41f" />
+
 **Developed by ChillHack Hong Kong Web Development**  
 **Website**: [https://chillhack.net](https://chillhack.net)  
 **Contact**: [info@chillhack.net](mailto:info@chillhack.net)
