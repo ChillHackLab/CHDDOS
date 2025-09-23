@@ -1,0 +1,8 @@
+aiohttp
+scapy
+dnspython
+pysocks
+tqdm
+psutil
+requests
+colorama
