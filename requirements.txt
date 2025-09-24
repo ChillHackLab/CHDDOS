@@ -1,8 +1,4 @@
-aiohttp
-scapy
-dnspython
-pysocks
-tqdm
-psutil
-requests
-colorama
+requests>=2.31.0
+urllib3>=1.26.18
+python-nmap>=0.7.1
+scapy>=2.5.0
